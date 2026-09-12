@@ -8,7 +8,6 @@ import logo from "../../imgs/LOGOBOLA.png";
 
 const navItems = [
   { href: "/#eventos", label: "Eventos" },
-  { href: "/#torcida", label: "A torcida" },
   { href: "/#contato", label: "Contato" },
 ];
 

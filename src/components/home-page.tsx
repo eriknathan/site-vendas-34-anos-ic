@@ -67,22 +67,6 @@ export function HomePage() {
           </div>
         </section>
 
-        <section className="about-section" id="torcida">
-          <div className="container about-grid">
-            <div className="about-brand">
-              <Image alt="Escudo da Explosão Inferno Coral" src={logo} />
-              <span>Desde a arquibancada, para a arquibancada.</span>
-            </div>
-            <div className="about-copy">
-              <p className="section-kicker">{organizer.city}</p>
-              <h2>Explosão Inferno Coral</h2>
-              <p>
-                Uma celebração construída por quem vive o clube todos os dias. Esta página é uma prévia do que vem pela frente.
-              </p>
-              <a href="#contato">Conhecer a torcida <ChevronRight aria-hidden="true" size={18} /></a>
-            </div>
-          </div>
-        </section>
       </main>
 
       <footer className="site-footer" id="contato">
